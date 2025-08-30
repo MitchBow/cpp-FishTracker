@@ -1,0 +1,88 @@
+Australian Bass, 35, 1, 2
+Estuary Perch, 35, 1, 2
+Australian Salmon, 60, 1, 5
+Blue Drummer, 60, 1, 0
+Bonito, 70, 1, 10
+Bream (Black/Southern), 25, 1, 10
+Bream (Yellowfin), 25, 1, 10
+Tarwhine, 20, 1, 10
+Cobia, 60, 1, 5
+Hapuku (Hapuka), 50, 1, 5
+Banded Rock Cod (Bar Cod), 40, 1, 5
+Bass Groper, 60, 1, 5
+Gemfish, 50, 1, 5
+Blue-Eye Trevalla (Cod), 50, 1, 5
+Dogfish, 0, 1, 0
+Southern Dogfish, 0, 1, 0
+All other Dogfish, 0, 1, 2
+Eastern Blue Groper, 0, 1, 0
+Mahi Mahi (Dolphinfish), 110, 1, 10
+Eels (Shortfin and Longfin), 30, 1, 10
+Flathead (Dusky), 36, 1, 10
+Flathead (Bluespotted), 33, 1, 10
+Flathead (Tiger), 30, 1, 10
+Flounder and Sole, 25, 0, 20
+Garfish (Eastern Sea), 0, 0, 20
+Hairtail, 0, 0, 10
+Leatherjacket, 0, 0, 20
+Luderick, 27, 0, 10
+Mackerel (Spanish), 75, 1, 5
+Mackerel (Spotted), 60, 1, 5
+Mangrove Jack, 0, 1, 5
+Marlin (Striped), 0, 1, 1
+Marlin (Black), 0, 1, 1
+Marlin (Blue), 0, 1, 1
+Morwong Grey (Rubberlip), 30, 0, 10
+Morwong (Jackass), 30, 0, 10
+Morwong (Red), 30, 0, 5
+Morwong (Banded), 30, 0, 5
+Moses Snapper, 0, 1, 5
+Mullet, 30, 0, 20
+Mulloway, 70, 1, 1
+Pearl Perch, 30, 1, 5
+Eastern Red Scorpionfish (Red Rock Cod), 0, 1, 5
+Rock Blackfish (Black Drummer), 30, 0, 10
+Sailfish, 0, 1, 1
+Samsonfish, 0, 1, 5
+Amberjack, 0, 1, 5
+Australian Sawtail, 0, 1, 5
+Shark (Wobbegong), 0, 1, 0
+Shark (Mako), 0, 1, 5
+Shark (School), 91, 1, 5
+Shark (Whaler), 0, 1, 5
+Snapper, 30, 1, 10
+Spearfish Shortbill, 0, 1, 1
+Swordfish, 0, 1, 1
+Tailor, 30, 1, 10
+Teraglin, 38, 1, 5
+Trevallies (Silver Trevally), 30, 1, 10
+Tuna (Albacore), 90, 1, 5
+Tuna (Bigeye), 90, 1, 5
+Tuna (Longtail), 90, 1, 5
+Tuna (Yellowfin), 90, 1, 5
+Tuna (Southern Bluefin), 0, 1, 1
+Wahoo, 0, 1, 5
+Whiting (Sand), 27, 0, 20
+Yellowtail Kingfish, 65, 1, 5
+Abalone, 11.7, 0, 2
+Balmain Bug, 10, 0, 20
+Beach Worms, 0, 0, 20
+All other worms, 0, 0, 100
+Cockles, 0, 0, 50
+crab(Blue Swimmer), 6.5, 0, 10
+Mud Crab, 8.5, 0, 5
+Crab (Spanner), 9.3, 0, 10
+Crab (Soldier), 0, 0, 100
+All other crabs, 0, 0, 10
+Cunjevoi, 0, 0, 20
+Lobster (Eastern Rock), 10.4, 0, 3
+Lobster (Southern Rock), 11, 0, 3
+Slipper Lobster (Flat), 0, 0, 2
+Octopus, 0, 0, 10
+Oysters, 0, 0, 50
+Prawns, 0, 0, 10
+Saltwater Nippers, 0, 0, 100
+Scallops, 0, 0, 50
+Sea Urchins, 0, 0, 10
+Squid & Cuttlefish, 0, 0, 20
+Turban Snails, 7.5, 0, 20
